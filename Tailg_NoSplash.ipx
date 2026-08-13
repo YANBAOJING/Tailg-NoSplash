@@ -2,7 +2,7 @@
 #!desc = 通过修改台铃智能 App 的配置响应关闭开屏广告
 #!author = Loon
 #!homepage = https://github.com/YANBAOJING/Tailg-NoSplash
-#!icon = https://raw.githubusercontent.com/YANBAOJING/Tailg-NoSplash/main/icon.png
+#!icon = https://raw.githubusercontent.com/YANBAOJING/Tailg-NoSplash/main/IMG_2735.png
 #!system = iOS,iPadOS,tvOS,macOS
 #!system_version = 15
 #!loon_version = 3.5.1(978)
